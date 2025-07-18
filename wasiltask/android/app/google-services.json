@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234917129396",
+    "project_id": "taskauth-99bb7",
+    "storage_bucket": "taskauth-99bb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234917129396:android:39dc0a8fda037439d7bbe1",
+        "android_client_info": {
+          "package_name": "com.example.wasiltask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-d_uYXmwBP-uAdjuuAU_RPZkwBvdTBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
