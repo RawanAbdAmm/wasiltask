@@ -21,8 +21,8 @@ class Strings {
   static const String passwordIsRequired = 'Password is required';
   static const String shortPassword = 'Password must be at least 6 characters';
 
-  static const String sortAscending = "Sort ↑";
-  static const String sortDescending = "Sort ↓";
+  static const String sortAscending = "Price ↑";
+  static const String sortDescending = "Price ↓";
   static const String filterCategory = "Filter Category";
   static const String resetFilters = "Reset";
 
